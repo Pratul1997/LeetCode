@@ -13,6 +13,6 @@ class Solution:
             else:
                 if height[l] * (l - s) > maxarea:
                     maxarea = height[l] * (l - s)
-                l = l - 1
+                l -= 1
         return maxarea
 ```
