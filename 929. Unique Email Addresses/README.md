@@ -2,13 +2,13 @@
 ```
 class Solution:
     def numUniqueEmails(self, emails):
-        past = []
+        past = dict()
         for email in emails:
             (lname, dname) = email.split('@')
             lname = lname.split('+')[0]
             while '.' in lname:
                 lname = lname.replace('.', '')
-            if not lname + dname in past:
-                past.append(lname + dname)
+            if not past.get(lname + dname):
+                past[lname + dname] = 1
         return len(past)
 ```
