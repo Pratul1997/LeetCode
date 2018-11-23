@@ -58,13 +58,12 @@ class Solution:
             '-.--',
             '--..',
             ]
-        ot = []
+        ot = dict()
         for wd in words:
             st = ''
             for x in range(len(wd)):
                 st = st + mor[apha.index(wd[x])]
-            if st not in ot:
-                ot.append(st)
+            if not ot.get(st):
+                ot[st] = 1
         return len(ot)
-
 ```
