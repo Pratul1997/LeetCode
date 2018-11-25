@@ -2,11 +2,11 @@
 ```
 class Solution:
     def numJewelsInStones(self, J, S):
-        Jl=[]
+        Jl = []
         for x in range(len(J)):
             Jl.append(J[x])
-        count=0
+        count = 0
         for y in Jl:
-            count+=S.count(y)
+            count += S.count(y)
         return count
 ```
