@@ -30,6 +30,8 @@
 ||||||||
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/345.%20Reverse%20Vowels%20of%20a%20String) | **O(n)** | **O(1)** | Easy | ```Two Pointers, String``` |
 ||||||||
+| 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/566.%20Reshape%20the%20Matrix) | **O(n)** | **O(n^2)** | Easy | ```Array``` |
+||||||||
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/804.%20Unique%20Morse%20Code%20Words) | **O(n^2)** | **O(n)** | Easy | ```String``` |
 ||||||||
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/832.%20Flipping%20an%20Image) | **O(n^2)** | **O(1)** | Easy | ```Array``` |
@@ -38,4 +40,3 @@
 ||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
-
