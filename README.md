@@ -18,6 +18,8 @@
 ||||||||
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/43.%20Multiply%20Strings) | **O(1)** | **O(1)** | Medium | ```Math, String``` |
 ||||||||
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/50.%20Pow(x-n)) | **O(logn)** | **O(1)** | Medium | ```Math, Binary Search```|
+||||||||
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/118.%20Pascal's%20Triangle) | **O(n^2)** | **O(1)** | Easy | ```Array``` |
 ||||||||
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/119.%20Pascal's%20Triangle%20II) | **O(n^2)** | **O(k)** | Easy | ```Array``` |
@@ -36,3 +38,4 @@
 ||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
+
