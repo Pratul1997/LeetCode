@@ -1,6 +1,6 @@
 # LeetCode [![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)](LICENSE)  [![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20MySQL%20%7C%20Bash-orange.svg?style=social&logo=python&logoWidth=20)](README.md)
 
-### If you like this project, please leave me a star &#9733;, and contribute to the project by ```forking``` the Repository. 
+#### If you like this project, please leave me a star &#9733;, and contribute to the project by ```forking``` the Repository. 
 
 ## Solution to LeetCode Problems in ```Python```
 
@@ -8,43 +8,43 @@
 |  S.No. |                          Title                                       | Solutions |  Time | Space | Difficulty | Related Topics | 
 | :---:  |                          :---                                        |  :---:   |  :---: | :---: |    :---:   | :--- |
 ||||||||
-|  1  | [Two Sum](https://leetcode.com/problems/two-sum/description)             | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/1.%20Two%20Sum) | **O(n)** | **O(n)** | Easy | ```Array, Hash Table``` 
+|  1  | [Two Sum](https://leetcode.com/problems/two-sum)             | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/1.%20Two%20Sum) | **O(n)** | **O(n)** | Easy | ```Array, Hash Table``` 
 ||||||||
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/2.%20Add%20Two%20Numbers) | **O(n)** | **O(1)** | Medium | ```Linked List, Math```|
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/2.%20Add%20Two%20Numbers) | **O(n)** | **O(1)** | Medium | ```Linked List, Math```|
 ||||||||
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/3.%20Longest%20Substring%20Without%20Repeating%20Characters) | **O(n)** | **O(n)** | Medium | ```Hash Table, Two Pointers, String``` |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/3.%20Longest%20Substring%20Without%20Repeating%20Characters) | **O(n)** | **O(n)** | Medium | ```Hash Table, Two Pointers, String``` |
 ||||||||
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/7.%20Reverse%20Integer) | **O(n)** | **O(1)** | Easy | ```Math``` |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/7.%20Reverse%20Integer) | **O(n)** | **O(1)** | Easy | ```Math``` |
 ||||||||
-| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/9.%20Palindrome%20Number) | **O(1)** | **O(1)** | Easy | ```Math``` |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/9.%20Palindrome%20Number) | **O(1)** | **O(1)** | Easy | ```Math``` |
 ||||||||
-|  11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/11.%20Container%20With%20Most%20Water) | **O(n)** | **O(1)** | Medium | ```Array, Two Pointers``` |
+|  11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/11.%20Container%20With%20Most%20Water) | **O(n)** | **O(1)** | Medium | ```Array, Two Pointers``` |
 ||||||||
-| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/14.%20Longest%20Common%20Prefix) | **O(n^2)** | **O(1)** | Easy | ```String``` |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/14.%20Longest%20Common%20Prefix) | **O(n^2)** | **O(1)** | Easy | ```String``` |
 ||||||||
-| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/19.%20Remove%20Nth%20Node%20From%20End%20of%20List) | **O(n)** | **O(1)** | Medium | ```Linked List, Two Pointers``` |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/19.%20Remove%20Nth%20Node%20From%20End%20of%20List) | **O(n)** | **O(1)** | Medium | ```Linked List, Two Pointers``` |
 ||||||||
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/21.%20Merge%20Two%20Sorted%20Lists) | **O(n)** | **O(n)** | Easy | ```Linked List``` |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/21.%20Merge%20Two%20Sorted%20Lists) | **O(n)** | **O(n)** | Easy | ```Linked List``` |
 ||||||||
-| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/24.%20Swap%20Nodes%20in%20Pairs) | **O(n)** | **O(1)** | Medium | ```Linked List``` |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/24.%20Swap%20Nodes%20in%20Pairs) | **O(n)** | **O(1)** | Medium | ```Linked List``` |
 ||||||||
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/26.%20Remove%20Duplicates%20from%20Sorted%20Array) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/26.%20Remove%20Duplicates%20from%20Sorted%20Array) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
 ||||||||
-| 27 | [Remove Element](https://leetcode.com/problems/remove-element/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/27.%20Remove%20Element) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/27.%20Remove%20Element) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
 ||||||||
-| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/35.%20Search%20Insert%20Position) | **O(n)** | **O(1)** | Easy | ```Array, Binary Search``` |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/35.%20Search%20Insert%20Position) | **O(n)** | **O(1)** | Easy | ```Array, Binary Search``` |
 ||||||||
-| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/43.%20Multiply%20Strings) | **O(1)** | **O(1)** | Medium | ```Math, String``` |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/43.%20Multiply%20Strings) | **O(1)** | **O(1)** | Medium | ```Math, String``` |
 ||||||||
-| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/50.%20Pow(x-n)) | **O(logn)** | **O(1)** | Medium | ```Math, Binary Search```|
+| 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/50.%20Pow(x-n)) | **O(logn)** | **O(1)** | Medium | ```Math, Binary Search```|
 ||||||||
-| 61 | [Plus One](https://leetcode.com/problems/plus-one/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/66.%20Plus%20One) | **O(n)** | **O(1)** | Easy | ```Array, Math```| 
+| 61 | [Plus One](https://leetcode.com/problems/plus-one) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/66.%20Plus%20One) | **O(n)** | **O(1)** | Easy | ```Array, Math```| 
 ||||||||
-| 65 | [Valid Number](https://leetcode.com/problems/valid-number/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/65.%20Valid%20Number) | **O(1)** | **O(1)** | Hard | ```Math, String``` |
+| 65 | [Valid Number](https://leetcode.com/problems/valid-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/65.%20Valid%20Number) | **O(1)** | **O(1)** | Hard | ```Math, String``` |
 ||||||||
-| 78 | [Subsets](https://leetcode.com/problems/subsets/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/78.%20Subsets) | **O(n^2)** | **O(n^2)** | Medium | ```Array, Backtracking, Bit Manipulation``` |
+| 78 | [Subsets](https://leetcode.com/problems/subsets) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/78.%20Subsets) | **O(n^2)** | **O(n^2)** | Medium | ```Array, Backtracking, Bit Manipulation``` |
 ||||||||
-| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/83.%20Remove%20Duplicates%20from%20Sorted%20List) | **O(n)** | **O(1)** | Easy | ```Linked List``` |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/83.%20Remove%20Duplicates%20from%20Sorted%20List) | **O(n)** | **O(1)** | Easy | ```Linked List``` |
 ||||||||
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/118.%20Pascal's%20Triangle) | **O(n^2)** | **O(1)** | Easy | ```Array``` |
 ||||||||
