@@ -27,9 +27,8 @@ class Solution(object):
                         count += 1
                         retval = temp1
                     else:
-
                         hprev.next = temp1
-
+                        
                     hprev = temp
                 else:
                     break
