@@ -40,6 +40,8 @@
 ||||||||
 | 78 | [Subsets](https://leetcode.com/problems/subsets/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/78.%20Subsets) | **O(n^2)** | **O(n^2)** | Medium | ```Array, Backtracking, Bit Manipulation``` |
 ||||||||
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/83.%20Remove%20Duplicates%20from%20Sorted%20List) | **O(n)** | **O(1)** | Easy | ```Linked List``` |
+||||||||
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/118.%20Pascal's%20Triangle) | **O(n^2)** | **O(1)** | Easy | ```Array``` |
 ||||||||
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/119.%20Pascal's%20Triangle%20II) | **O(n^2)** | **O(k)** | Easy | ```Array``` |
