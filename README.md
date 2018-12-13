@@ -1,12 +1,12 @@
 # LeetCode
 ## Solution to LeetCode Problems in ```Python```
 
-|  S.No. |                          Title                                       | Solutions |  Time | Space | Difficulty | Related Topics | ```Companies``` |
-| :---:  |                          :---                                        |  :---:   |  :---: | :---: |    :---:   | :--- | :--- |
+|  S.No. |                          Title                                       | Solutions |  Time | Space | Difficulty | Related Topics | 
+| :---:  |                          :---                                        |  :---:   |  :---: | :---: |    :---:   | :--- |
 ||||||||
-|  1  | [Two Sum](https://leetcode.com/problems/two-sum/description)             | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/1.%20Two%20Sum) | **O(n)** | **O(n)** | Easy | ```Array, Hash Table``` | **``` Adobe, Airbnb, Amazon, Apple, Bloomberg, Dropbox, Facebook, Linkedin, Microsoft, Uber, Yahoo, Yelp```**|
+|  1  | [Two Sum](https://leetcode.com/problems/two-sum/description)             | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/1.%20Two%20Sum) | **O(n)** | **O(n)** | Easy | ```Array, Hash Table``` 
 ||||||||
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/2.%20Add%20Two%20Numbers) | **O(n)** | **O(1)** | Medium | ```Linked List, Math```| **```Adobe, Airbnb, Amazon, Bloomberg, Microsoft```**|
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/2.%20Add%20Two%20Numbers) | **O(n)** | **O(1)** | Medium | ```Linked List, Math```|
 ||||||||
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/3.%20Longest%20Substring%20Without%20Repeating%20Characters) | **O(n)** | **O(n)** | Medium | ```Hash Table, Two Pointers, String``` |
 ||||||||
