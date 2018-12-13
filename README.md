@@ -1,5 +1,9 @@
-# LeetCode
+# LeetCode [![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)](LICENSE)  [![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20MySQL%20%7C%20Bash-orange.svg?style=social&logo=python&logoWidth=20)](README.md)
+
+### If you like this project, please leave me a star &#9733;, and contribute to the project by ```forking``` the Repository. 
+
 ## Solution to LeetCode Problems in ```Python```
+
 
 |  S.No. |                          Title                                       | Solutions |  Time | Space | Difficulty | Related Topics | 
 | :---:  |                          :---                                        |  :---:   |  :---: | :---: |    :---:   | :--- |
