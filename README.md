@@ -28,9 +28,17 @@
 ||||||||
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/27.%20Remove%20Element) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
 ||||||||
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/35.%20Search%20Insert%20Position) | **O(n)** | **O(1)** | Easy | ```Array, Binary Search``` |
+||||||||
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/43.%20Multiply%20Strings) | **O(1)** | **O(1)** | Medium | ```Math, String``` |
 ||||||||
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/50.%20Pow(x-n)) | **O(logn)** | **O(1)** | Medium | ```Math, Binary Search```|
+||||||||
+| 61 | [Plus One](https://leetcode.com/problems/plus-one/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/66.%20Plus%20One) | **O(n)** | **O(1)** | Easy | ```Array, Math```| 
+||||||||
+| 65 | [Valid Number](https://leetcode.com/problems/valid-number/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/65.%20Valid%20Number) | **O(1)** | **O(1)** | Hard | ```Math, String``` |
+||||||||
+| 78 | [Subsets](https://leetcode.com/problems/subsets/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/78.%20Subsets) | **O(n^2)** | **O(n^2)** | Medium | ```Array, Backtracking, Bit Manipulation``` |
 ||||||||
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/118.%20Pascal's%20Triangle) | **O(n^2)** | **O(1)** | Easy | ```Array``` |
 ||||||||
