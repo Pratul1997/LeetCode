@@ -16,6 +16,10 @@
 ||||||||
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/14.%20Longest%20Common%20Prefix) | **O(n^2)** | **O(1)** | Easy | ```String``` |
 ||||||||
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/19.%20Remove%20Nth%20Node%20From%20End%20of%20List) | **O(n)** | **O(1)** | Medium | ```Linked List, Two Pointers``` |
+||||||||
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/24.%20Swap%20Nodes%20in%20Pairs) | **O(n)** | **O(1)** | Medium | ```Linked List``` |
+||||||||
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/27.%20Remove%20Element) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
 ||||||||
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/43.%20Multiply%20Strings) | **O(1)** | **O(1)** | Medium | ```Math, String``` |
@@ -36,7 +40,7 @@
 ||||||||
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/804.%20Unique%20Morse%20Code%20Words) | **O(n^2)** | **O(n)** | Easy | ```String``` |
 ||||||||
-| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/832.%20Flipping%20an%20Image) | **O(n^2)** | **O(1)** | Easy | ```Array``` |
+| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/832.%20Flipping%20an%20Image) | **O(n^2)** | **O(1)** | Easy | ```Array``` |
 ||||||||
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/896.%20Monotonic%20Array) | **O(n)** | **O(1)** | Easy | ```Array``` | 
 ||||||||
