@@ -1,6 +1,14 @@
 # LeetCode [![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)](LICENSE)  [![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20MySQL%20%7C%20Bash-orange.svg?style=social&logo=python&logoWidth=20)](README.md)
 
-#### If you like this project, please leave me a star &#9733;, and contribute to the project by ```forking``` the Repository. 
+#### If you :heart: this project, please leave me a star :star:, and contribute to the project by ```forking``` the Repository. 
+<details>
+<summary>About Author</summary>
+  
+- [ ] I am Pre-Final year student from LNMIIT Jaipur
+- [ ] Looking for Job Opportunities :office:
+- [ ] Can be reached out at, :email: : pratulkumar1997@gmail.com
+
+</details>
 
 ## Solution to LeetCode Problems in ```Python```
 
