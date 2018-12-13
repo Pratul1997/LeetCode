@@ -10,6 +10,8 @@
 ||||||||
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/3.%20Longest%20Substring%20Without%20Repeating%20Characters) | **O(n)** | **O(n)** | Medium | ```Hash Table, Two Pointers, String``` |
 ||||||||
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/7.%20Reverse%20Integer) | **O(n)** | **O(1)** | Easy | ```Math``` |
+||||||||
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/9.%20Palindrome%20Number) | **O(1)** | **O(1)** | Easy | ```Math``` |
 ||||||||
 |  11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/11.%20Container%20With%20Most%20Water) | **O(n)** | **O(1)** | Medium | ```Array, Two Pointers``` |
@@ -18,7 +20,11 @@
 ||||||||
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/19.%20Remove%20Nth%20Node%20From%20End%20of%20List) | **O(n)** | **O(1)** | Medium | ```Linked List, Two Pointers``` |
 ||||||||
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/21.%20Merge%20Two%20Sorted%20Lists) | **O(n)** | **O(n)** | Easy | ```Linked List``` |
+||||||||
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/24.%20Swap%20Nodes%20in%20Pairs) | **O(n)** | **O(1)** | Medium | ```Linked List``` |
+||||||||
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/26.%20Remove%20Duplicates%20from%20Sorted%20Array) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
 ||||||||
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/27.%20Remove%20Element) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
 ||||||||
