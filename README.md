@@ -71,6 +71,8 @@
 ||||||||
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/237.%20Delete%20Node%20in%20a%20Linked%20List) | **O(1)** | **O(1)** | Easy | ```Linked List``` |
 ||||||||
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/283.%20Move%20Zeroes) | **O()** | **O()** | Easy | ```Array, Two Pointers``` |
+||||||||
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/345.%20Reverse%20Vowels%20of%20a%20String) | **O(n)** | **O(1)** | Easy | ```Two Pointers, String``` |
 ||||||||
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/566.%20Reshape%20the%20Matrix) | **O(n)** | **O(n^2)** | Easy | ```Array``` |
