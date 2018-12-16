@@ -1,6 +1,7 @@
 # LeetCode [![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)](LICENSE)  [![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20MySQL%20%7C%20Bash-orange.svg?style=social&logo=python&logoWidth=20)](README.md)
 
 #### If you :heart: this project, please leave me a star :star:, and contribute to the project by ```forking``` the Repository. 
+
 <details>
 <summary>About Author</summary>
   
@@ -54,23 +55,27 @@
 ||||||||
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/83.%20Remove%20Duplicates%20from%20Sorted%20List) | **O(n)** | **O(1)** | Easy | ```Linked List``` |
 ||||||||
-| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/118.%20Pascal's%20Triangle) | **O(n^2)** | **O(1)** | Easy | ```Array``` |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/118.%20Pascal's%20Triangle) | **O(n^2)** | **O(1)** | Easy | ```Array``` |
 ||||||||
-| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/119.%20Pascal's%20Triangle%20II) | **O(n^2)** | **O(k)** | Easy | ```Array``` |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/119.%20Pascal's%20Triangle%20II) | **O(n^2)** | **O(k)** | Easy | ```Array``` |
 ||||||||
-| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) | **O(n)** | **O(1)** | Easy | ```Array, Dynamic Programming``` |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) | **O(n)** | **O(1)** | Easy | ```Array, Dynamic Programming``` |
 ||||||||
-| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers, Binary Search``` |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers, Binary Search``` |
 ||||||||
-| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/345.%20Reverse%20Vowels%20of%20a%20String) | **O(n)** | **O(1)** | Easy | ```Two Pointers, String``` |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/345.%20Reverse%20Vowels%20of%20a%20String) | **O(n)** | **O(1)** | Easy | ```Two Pointers, String``` |
 ||||||||
-| 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/566.%20Reshape%20the%20Matrix) | **O(n)** | **O(n^2)** | Easy | ```Array``` |
+| 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/566.%20Reshape%20the%20Matrix) | **O(n)** | **O(n^2)** | Easy | ```Array``` |
 ||||||||
-| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/804.%20Unique%20Morse%20Code%20Words) | **O(n^2)** | **O(n)** | Easy | ```String``` |
+| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/804.%20Unique%20Morse%20Code%20Words) | **O(n^2)** | **O(n)** | Easy | ```String``` |
 ||||||||
-| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/832.%20Flipping%20an%20Image) | **O(n^2)** | **O(1)** | Easy | ```Array``` |
+| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/832.%20Flipping%20an%20Image) | **O(n^2)** | **O(1)** | Easy | ```Array``` |
 ||||||||
-| 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/896.%20Monotonic%20Array) | **O(n)** | **O(1)** | Easy | ```Array``` | 
+| 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/896.%20Monotonic%20Array) | **O(n)** | **O(1)** | Easy | ```Array``` | 
 ||||||||
-| 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
+| 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
+||||||||
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/206.%20Reverse%20Linked%20List) | **O(n)** | **O(n)** | Easy | ```Linked List``` |
+||||||||
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/234.%20Palindrome%20Linked%20List) | **O(n)** | **O(n)** | Easy | ```Linked List, Two Pointers``` |
 ||||||||
