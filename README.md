@@ -103,8 +103,8 @@
 
 ### DATABASE
 
-|  S.No. |                          Title                                       | Solutions | 
-| :---:  |                          :---                                        |  :---:   |  
-||||
-| 595 | [Big Countries](https://leetcode.com/problems/big-countries) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/595.%20Big%20Countries) | 
-||||
+|  S.No. |                          Title                                       | Solutions | Difficulty |
+| :---:  |                          :---                                        |  :---:   |  :---:   |  
+|||||
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/595.%20Big%20Countries) | Easy |
+|||||
