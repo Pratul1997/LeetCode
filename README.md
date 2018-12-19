@@ -13,6 +13,7 @@
 
 ## Solution to LeetCode Problems in ```Python```
 
+### ALGORITHMS
 
 |  S.No. |                          Title                                       | Solutions |  Time | Space | Difficulty | Related Topics | 
 | :---:  |                          :---                                        |  :---:   |  :---: | :---: |    :---:   | :--- |
@@ -97,3 +98,13 @@
 ||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
+
+
+
+### DATABASE
+
+|  S.No. |                          Title                                       | Solutions | 
+| :---:  |                          :---                                        |  :---:   |  
+||||
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/595.%20Big%20Countries) | 
+||||
