@@ -79,6 +79,8 @@
 ||||||||
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/461.%20Hamming%20Distance) | **O(n)** | **O(1)** | Easy | ```Bit Manipulation``` |
 ||||||||
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/485.%20Max%20Consecutive%20Ones) | **O(n)** | **O(1)** | Easy | ```Array``` |
+||||||||
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/566.%20Reshape%20the%20Matrix) | **O(n)** | **O(n^2)** | Easy | ```Array``` |
 ||||||||
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/804.%20Unique%20Morse%20Code%20Words) | **O(n^2)** | **O(n)** | Easy | ```String``` |
