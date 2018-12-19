@@ -85,6 +85,8 @@
 ||||||||
 | 557 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/557.%20Reverse%20Words%20in%20a%20String%20III) | **O(n)** | **O(1)** | Easy | ```String``` |
 ||||||||
+| 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/561.%20Array%20Partition%20I) | **O(n)** | **O(1)** | Easy | ```Array```|
+||||||||
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/566.%20Reshape%20the%20Matrix) | **O(n)** | **O(n^2)** | Easy | ```Array``` |
 ||||||||
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/804.%20Unique%20Morse%20Code%20Words) | **O(n^2)** | **O(n)** | Easy | ```String``` |
