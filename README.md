@@ -66,6 +66,8 @@
 ||||||||
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers, Binary Search``` |
 ||||||||
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/189.%20Rotate%20Array) | **O(1)** | **O(1)** | Easy | ```Array```|
+||||||||
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/203.%20Remove%20Linked%20List%20Elements) | **O(n)** | **O(1)** |Easy | ```Linked List```| 
 ||||||||
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/206.%20Reverse%20Linked%20List) | **O(n)** | **O(n)** | Easy | ```Linked List``` |
@@ -100,6 +102,11 @@
 ||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
+
+
+
+
+
 
 
 ### DATABASE
