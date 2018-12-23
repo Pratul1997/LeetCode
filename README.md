@@ -38,6 +38,8 @@
 ||||||||
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/24.%20Swap%20Nodes%20in%20Pairs) | **O(n)** | **O(1)** | Medium | ```Linked List``` |
 ||||||||
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/25.%20Reverse%20Nodes%20in%20k-Group) | **O(n)** | **O(1)** | Hard | ```Linked List``` |
+||||||||
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/26.%20Remove%20Duplicates%20from%20Sorted%20Array) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
 ||||||||
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/27.%20Remove%20Element) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
@@ -102,8 +104,6 @@
 ||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
-
-
 
 
 
