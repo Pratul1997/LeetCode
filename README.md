@@ -26,7 +26,7 @@
 ||||||||
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/7.%20Reverse%20Integer) | **O(n)** | **O(1)** | Easy | ```Math``` |
 ||||||||
-| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/9.%20Palindrome%20Number) | **O(1)** | **O(1)** | Easy | ```Math``` |
+| **9** | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/9.%20Palindrome%20Number) | **O(1)** | **O(1)** | Easy | ```Math``` |
 ||||||||
 |  11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/11.%20Container%20With%20Most%20Water) | **O(n)** | **O(1)** | Medium | ```Array, Two Pointers``` |
 ||||||||
@@ -42,11 +42,11 @@
 ||||||||
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/26.%20Remove%20Duplicates%20from%20Sorted%20Array) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
 ||||||||
-| 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/27.%20Remove%20Element) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
+| **27** | [Remove Element](https://leetcode.com/problems/remove-element) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/27.%20Remove%20Element) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
 ||||||||
-| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/35.%20Search%20Insert%20Position) | **O(n)** | **O(1)** | Easy | ```Array, Binary Search``` |
+| **35** | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/35.%20Search%20Insert%20Position) | **O(n)** | **O(1)** | Easy | ```Array, Binary Search``` |
 ||||||||
-| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/43.%20Multiply%20Strings) | **O(1)** | **O(1)** | Medium | ```Math, String``` |
+| **43** | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/43.%20Multiply%20Strings) | **O(1)** | **O(1)** | Medium | ```Math, String``` |
 ||||||||
 | 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/50.%20Pow(x-n)) | **O(logn)** | **O(1)** | Medium | ```Math, Binary Search```|
 ||||||||
