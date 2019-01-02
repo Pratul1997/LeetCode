@@ -88,6 +88,8 @@
 ||||||||
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/203.%20Remove%20Linked%20List%20Elements) | **O(n)** | **O(1)** |Easy | ```Linked List```| 
 ||||||||
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/204.%20Count%20Primes) | **O(n)** | **O(n)** | Easy | ```Hash Table, Math``` |
+||||||||
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/206.%20Reverse%20Linked%20List) | **O(n)** | **O(n)** | Easy | ```Linked List``` |
 ||||||||
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/234.%20Palindrome%20Linked%20List) | **O(n)** | **O(n)** | Easy | ```Linked List, Two Pointers``` |
@@ -120,8 +122,6 @@
 ||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
-
-
 
 
 
