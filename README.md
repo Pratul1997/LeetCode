@@ -82,6 +82,8 @@
 ||||||||
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/169.%20Majority%20Element) | **O()** | **O()** | Easy | ```Array, Divide and Conquer, Bit Manipulation``` |
 ||||||||
+| 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/172.%20Factorial%20Trailing%20Zeroes) | **O(n)** | **O(1)** | Easy | ```Math``` | 
+||||||||
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/189.%20Rotate%20Array) | **O(1)** | **O(1)** | Easy | ```Array```|
 ||||||||
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/203.%20Remove%20Linked%20List%20Elements) | **O(n)** | **O(1)** |Easy | ```Linked List```| 
