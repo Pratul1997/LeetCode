@@ -68,6 +68,8 @@
 ||||||||
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) | **O(n)** | **O(1)** | Easy | ```Array, Dynamic Programming``` |
 ||||||||
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/125.%20Valid%20Palindrome) |**O(1)** | **O(1)** | Easy | ```Two Pointers, String``` |
+||||||||
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/136.%20Single%20Number) | **O(n)** | **O(1)** | Easy | ```Hash Table, Bit Manipulation``` |
 ||||||||
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/141.%20Linked%20List%20Cycle) | **O(n)** | **O(1)** | Easy | ```Linked List, Two Pointers``` |
@@ -112,6 +114,7 @@
 ||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
+
 
 
 
