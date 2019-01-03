@@ -120,6 +120,8 @@
 ||||||||
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/367.%20Valid%20Perfect%20Square) | **O(n)** | **O(1)** | Easy | ```Math, Binary Search``` |
 ||||||||
+| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/389.%20Find%20the%20Difference) | **O(n)** | **O(1)** | Easy | ```Hash Table, Bit Manipulation``` |
+||||||||
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/445.%20Add%20Two%20Numbers%20II) | **O(n)** | **O(n)** | Medium | ```Linked List``` |
 ||||||||
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/461.%20Hamming%20Distance) | **O(n)** | **O(1)** | Easy | ```Bit Manipulation``` |
