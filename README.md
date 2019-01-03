@@ -92,6 +92,8 @@
 ||||||||
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/206.%20Reverse%20Linked%20List) | **O(n)** | **O(n)** | Easy | ```Linked List``` |
 ||||||||
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/217.%20Contains%20Duplicate) | **O(n)** | **O(n)** | Easy | ```Array, Hash Table``` |
+||||||||
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/234.%20Palindrome%20Linked%20List) | **O(n)** | **O(n)** | Easy | ```Linked List, Two Pointers``` |
 ||||||||
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/237.%20Delete%20Node%20in%20a%20Linked%20List) | **O(1)** | **O(1)** | Easy | ```Linked List``` |
@@ -122,6 +124,8 @@
 ||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
+
+
 
 
 
