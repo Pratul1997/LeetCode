@@ -118,6 +118,8 @@
 ||||||||
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/345.%20Reverse%20Vowels%20of%20a%20String) | **O(n)** | **O(1)** | Easy | ```Two Pointers, String``` |
 ||||||||
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/367.%20Valid%20Perfect%20Square) | **O(n)** | **O(1)** | Easy | ```Math, Binary Search``` |
+||||||||
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/445.%20Add%20Two%20Numbers%20II) | **O(n)** | **O(n)** | Medium | ```Linked List``` |
 ||||||||
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/461.%20Hamming%20Distance) | **O(n)** | **O(1)** | Easy | ```Bit Manipulation``` |
@@ -140,7 +142,6 @@
 ||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
-
 
 
 
