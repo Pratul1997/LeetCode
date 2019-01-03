@@ -114,6 +114,8 @@
 ||||||||
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/328.%20Odd%20Even%20Linked%20List) | **O(n)** | **O(1)** | Medium | ```Linked List``` | 
 ||||||||
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/344.%20Reverse%20String) | **O(1)** | **O(1)** | Easy |```String, Two Pointer``` |
+||||||||
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/345.%20Reverse%20Vowels%20of%20a%20String) | **O(n)** | **O(1)** | Easy | ```Two Pointers, String``` |
 ||||||||
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/445.%20Add%20Two%20Numbers%20II) | **O(n)** | **O(n)** | Medium | ```Linked List``` |
@@ -138,7 +140,6 @@
 ||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
-
 
 
 
