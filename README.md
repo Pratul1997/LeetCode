@@ -104,6 +104,8 @@
 ||||||||
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/242.%20Valid%20Anagram) | **O(n)** | **O(n)** | Easy | ```Hash Table, Sort``` |
 ||||||||
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/268.%20Missing%20Number) | **O(n)** | **O(1)** | Easy | ```Array, Math, Bit Manipulation``` | 
+||||||||
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/283.%20Move%20Zeroes) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
 ||||||||
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/345.%20Reverse%20Vowels%20of%20a%20String) | **O(n)** | **O(1)** | Easy | ```Two Pointers, String``` |
@@ -130,6 +132,8 @@
 ||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
+
+
 
 
 
