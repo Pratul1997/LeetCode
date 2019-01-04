@@ -80,7 +80,7 @@
 ||||||||
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers, Binary Search``` |
 ||||||||
-| 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/169.%20Majority%20Element) | **O()** | **O()** | Easy | ```Array, Divide and Conquer, Bit Manipulation``` |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/169.%20Majority%20Element) | **O(n)** | **O(1)** | Easy | ```Array, Divide and Conquer, Bit Manipulation``` |
 ||||||||
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/172.%20Factorial%20Trailing%20Zeroes) | **O(n)** | **O(1)** | Easy | ```Math``` | 
 ||||||||
