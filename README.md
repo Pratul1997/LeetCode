@@ -18,13 +18,13 @@
 |  S.No. |                          Title                                       | Solutions |  Time | Space | Difficulty | Related Topics | 
 | :---:  |                          :---                                        |  :---:   |  :---: | :---: |    :---:   | :--- |
 ||||||||
-|  1  | [Two Sum](https://leetcode.com/problems/two-sum)             | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/1.%20Two%20Sum) | **O(n)** | **O(n)** | Easy | ```Array, Hash Table``` 
+| **1** | [Two Sum](https://leetcode.com/problems/two-sum)             | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/1.%20Two%20Sum) | **O(n)** | **O(n)** | Easy | ```Array, Hash Table``` 
 ||||||||
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/2.%20Add%20Two%20Numbers) | **O(n)** | **O(1)** | Medium | ```Linked List, Math```|
 ||||||||
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/3.%20Longest%20Substring%20Without%20Repeating%20Characters) | **O(n)** | **O(n)** | Medium | ```Hash Table, Two Pointers, String``` |
 ||||||||
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/7.%20Reverse%20Integer) | **O(n)** | **O(1)** | Easy | ```Math``` |
+| **7** | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/7.%20Reverse%20Integer) | **O(n)** | **O(1)** | Easy | ```Math``` |
 ||||||||
 | **9** | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/9.%20Palindrome%20Number) | **O(1)** | **O(1)** | Easy | ```Math``` |
 ||||||||
