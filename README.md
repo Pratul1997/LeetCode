@@ -122,6 +122,8 @@
 ||||||||
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/389.%20Find%20the%20Difference) | **O(n)** | **O(1)** | Easy | ```Hash Table, Bit Manipulation``` |
 ||||||||
+| 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/441.%20Arranging%20Coins) | **O(1)** | **O(1)** | Easy | ```Math, Binary Search``` |
+||||||||
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/445.%20Add%20Two%20Numbers%20II) | **O(n)** | **O(n)** | Medium | ```Linked List``` |
 ||||||||
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/461.%20Hamming%20Distance) | **O(n)** | **O(1)** | Easy | ```Bit Manipulation``` |
@@ -144,10 +146,6 @@
 ||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
-
-
-
-
 
 
 
