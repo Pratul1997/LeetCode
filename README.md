@@ -126,6 +126,8 @@
 ||||||||
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/445.%20Add%20Two%20Numbers%20II) | **O(n)** | **O(n)** | Medium | ```Linked List``` |
 ||||||||
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array) | **O(n)** | **O(n)** | Easy | ```Array``` |
+||||||||
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/461.%20Hamming%20Distance) | **O(n)** | **O(1)** | Easy | ```Bit Manipulation``` |
 ||||||||
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/485.%20Max%20Consecutive%20Ones) | **O(n)** | **O(1)** | Easy | ```Array``` |
