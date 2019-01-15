@@ -132,6 +132,8 @@
 ||||||||
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/485.%20Max%20Consecutive%20Ones) | **O(n)** | **O(1)** | Easy | ```Array``` |
 ||||||||
+| 507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/507.%20Perfect%20Number) | **O(logn)** | **O(1)** | Easy | ```Math``` |
+||||||||
 | 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/535.%20Encode%20and%20Decode%20TinyURL) | **O(1)** | **O(1)** | Medium | ```Hash Table, Math``` |
 ||||||||
 | 557 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/557.%20Reverse%20Words%20in%20a%20String%20III) | **O(n)** | **O(1)** | Easy | ```String``` |
@@ -150,9 +152,6 @@
 ||||||||
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/476.%20Number%20Complement) | **O(n)** | **O(n)** | Easy | ```Bit Manipulation``` |
 ||||||||
-
-
-
 
 
 
