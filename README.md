@@ -130,6 +130,8 @@
 ||||||||
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/461.%20Hamming%20Distance) | **O(n)** | **O(1)** | Easy | ```Bit Manipulation``` |
 ||||||||
+| 476 | [Number Complement](https://leetcode.com/problems/number-complement) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/476.%20Number%20Complement) | **O(n)** | **O(n)** | Easy | ```Bit Manipulation``` |
+||||||||
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/485.%20Max%20Consecutive%20Ones) | **O(n)** | **O(1)** | Easy | ```Array``` |
 ||||||||
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/507.%20Perfect%20Number) | **O(logn)** | **O(1)** | Easy | ```Math``` |
@@ -150,8 +152,7 @@
 ||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
-| 476 | [Number Complement](https://leetcode.com/problems/number-complement) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/476.%20Number%20Complement) | **O(n)** | **O(n)** | Easy | ```Bit Manipulation``` |
-||||||||
+
 
 
 
