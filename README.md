@@ -148,6 +148,8 @@
 ||||||||
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/628.%20Maximum%20Product%20of%20Three%20Numbers) | **O(nlogn)** | **O(1)** |Easy | ```Array, Math``` |
 ||||||||
+| 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/633.%20Sum%20of%20Square%20Numbers) | **O(logn)** | **O(1)** | Easy | ```Math``` |
+||||||||
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/804.%20Unique%20Morse%20Code%20Words) | **O(n^2)** | **O(n)** | Easy | ```String``` |
 ||||||||
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/832.%20Flipping%20an%20Image) | **O(n^2)** | **O(1)** | Easy | ```Array``` |
@@ -156,7 +158,6 @@
 ||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
-
 
 
 
