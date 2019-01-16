@@ -144,6 +144,8 @@
 ||||||||
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/566.%20Reshape%20the%20Matrix) | **O(n)** | **O(n^2)** | Easy | ```Array``` |
 ||||||||
+| 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists) | **O(n)** | **O(n)** | Easy | ```Hash Table``` | 
+||||||||
 | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/804.%20Unique%20Morse%20Code%20Words) | **O(n^2)** | **O(n)** | Easy | ```String``` |
 ||||||||
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/832.%20Flipping%20an%20Image) | **O(n^2)** | **O(1)** | Easy | ```Array``` |
@@ -152,6 +154,8 @@
 ||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
+
+
 
 
 
