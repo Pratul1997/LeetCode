@@ -150,6 +150,8 @@
 ||||||||
 | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/633.%20Sum%20of%20Square%20Numbers) | **O(logn)** | **O(1)** | Easy | ```Math``` |
 ||||||||
+| 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/645.%20Set%20Mismatch) | **O(1)** | **O(n)** | Easy | ```Hash Table, Math``` | 
+||||||||
 | 693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/693.%20Binary%20Number%20with%20Alternating%20Bits) | **O(n)** | **O(1)** | Easy | ```Bit Manipulation``` |
 ||||||||
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/697.%20Degree%20of%20an%20Array) | **O(n)** | **O(n)** | Easy | ```Array``` |
@@ -162,7 +164,6 @@
 ||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
-
 
 
 
