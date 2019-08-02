@@ -32,6 +32,8 @@
 ||||||||
 |  12 | [**Integer to Roman**](https://leetcode.com/problems/integer-to-roman/) | [Solution :star:](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/12.%20Integer%20to%20Roman) | **O(1)** | **O(1)** | Medium | ```Math, String``` |
 ||||||||
+|  13 | [**Roman to Integer**](https://leetcode.com/problems/roman-to-integer/) | [Solution :star:](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/13.%20Roman%20to%20Integer) | **O(n)** | **O(1)** | Medium | ```Math, String``` |
+||||||||
 | 14 | [**Longest Common Prefix**](https://leetcode.com/problems/longest-common-prefix) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/14.%20Longest%20Common%20Prefix) | **O(n^2)** | **O(1)** | Easy | ```String``` |
 ||||||||
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/19.%20Remove%20Nth%20Node%20From%20End%20of%20List) | **O(n)** | **O(1)** | Medium | ```Linked List, Two Pointers``` |
