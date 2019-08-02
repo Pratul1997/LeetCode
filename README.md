@@ -26,7 +26,7 @@
 ||||||||
 | 7 | [**Reverse Integer**](https://leetcode.com/problems/reverse-integer) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/7.%20Reverse%20Integer) | **O(n)** | **O(1)** | Easy | ```Math``` |
 ||||||||
-| **9** | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/9.%20Palindrome%20Number) | **O(1)** | **O(1)** | Easy | ```Math``` |
+| 9 | [**Palindrome Number**](https://leetcode.com/problems/palindrome-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/9.%20Palindrome%20Number) | **O(1)** | **O(1)** | Easy | ```Math``` |
 ||||||||
 |  11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/11.%20Container%20With%20Most%20Water) | **O(n)** | **O(1)** | Medium | ```Array, Two Pointers``` |
 ||||||||
