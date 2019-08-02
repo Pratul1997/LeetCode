@@ -56,6 +56,8 @@
 ||||||||
 | 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/50.%20Pow(x-n)) | **O(logn)** | **O(1)** | Medium | ```Math, Binary Search```|
 ||||||||
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/53.%20Maximum%20Subarray) | **O(n)** | **O(1)** | Easy | ```Array, Divide and Conquer, Dynamic Programming```|
+||||||||
 | 61 | [Plus One](https://leetcode.com/problems/plus-one) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/66.%20Plus%20One) | **O(n)** | **O(1)** | Easy | ```Array, Math```| 
 ||||||||
 | 65 | [Valid Number](https://leetcode.com/problems/valid-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/65.%20Valid%20Number) | **O(1)** | **O(1)** | Hard | ```Math, String``` |
