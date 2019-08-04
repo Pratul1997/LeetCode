@@ -62,6 +62,8 @@
 ||||||||
 | 65 | [Valid Number](https://leetcode.com/problems/valid-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/65.%20Valid%20Number) | **O(1)** | **O(1)** | Hard | ```Math, String``` |
 ||||||||
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/73.%20Set%20Matrix%20Zeroes) | **O(n^2)** | **O(1)** | Medium | ```Array``` |
+||||||||
 | 78 | [Subsets](https://leetcode.com/problems/subsets) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/78.%20Subsets) | **O(n^2)** | **O(n^2)** | Medium | ```Array, Backtracking, Bit Manipulation``` |
 ||||||||
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/83.%20Remove%20Duplicates%20from%20Sorted%20List) | **O(n)** | **O(1)** | Easy | ```Linked List``` |
