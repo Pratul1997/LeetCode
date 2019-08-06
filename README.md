@@ -36,11 +36,11 @@
 ||||||||
 | 14 | [**Longest Common Prefix**](https://leetcode.com/problems/longest-common-prefix) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/14.%20Longest%20Common%20Prefix) | **O(n^2)** | **O(1)** | Easy | ```String``` |
 ||||||||
-| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/19.%20Remove%20Nth%20Node%20From%20End%20of%20List) | **O(n)** | **O(1)** | Medium | ```Linked List, Two Pointers``` |
+| 19 | [**Remove Nth Node From End of List**](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/19.%20Remove%20Nth%20Node%20From%20End%20of%20List) | **O(n)** | **O(1)** | Medium | ```Linked List, Two Pointers``` |
 ||||||||
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/20.%20Valid%20Parentheses) | **O(n)** | **O(n)** | Easy | ```String, Stack```|
+| 20 | [**Valid Parentheses**](https://leetcode.com/problems/valid-parentheses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/20.%20Valid%20Parentheses) | **O(n)** | **O(n)** | Easy | ```String, Stack```|
 ||||||||
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/21.%20Merge%20Two%20Sorted%20Lists) | **O(n)** | **O(n)** | Easy | ```Linked List``` |
+| 21 | [**Merge Two Sorted Lists**](https://leetcode.com/problems/merge-two-sorted-lists) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/21.%20Merge%20Two%20Sorted%20Lists) | **O(n)** | **O(n)** | Easy | ```Linked List``` |
 ||||||||
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/24.%20Swap%20Nodes%20in%20Pairs) | **O(n)** | **O(1)** | Medium | ```Linked List``` |
 ||||||||
