@@ -176,11 +176,20 @@
 ||||||||
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/917.%20Reverse%20Only%20Letters) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid) | **O(n)** | **O(n)** | Medium | ```Stack, Greedy``` |
+||||||||
+| 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/922.%20Sort%20Array%20By%20Parity%20II) | **O(n)** | **O(n)** | Easy | ```Array, Sort``` |
+||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
-
-
-
+| 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/941.%20Valid%20Mountain%20Array) | **O(n)** | **O(1)** | Easy | ```Array``` |
+||||||||
+| 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/944.%20Delete%20Columns%20to%20Make%20Sorted) | **O(n)** | **O(1)** | Easy | ```Greedy``` |
+||||||||
+| 950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/950.%20Reveal%20Cards%20In%20Increasing%20Order) | **O(n)** | **O(n)** | Medium | ```Array``` |
+||||||||
+| 961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/961.%20N-Repeated%20Element%20in%20Size%202N%20Array) | **O(n)** | **O(n)** | Easy | ```Hash Table``` |
+||||||||
 
 
 
