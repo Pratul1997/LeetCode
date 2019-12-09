@@ -174,7 +174,8 @@
 ||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
-
+| 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards) | **O(n^2)** | **O(n)** | Easy | ```String, Math``` |
+||||||||
 
 
 
