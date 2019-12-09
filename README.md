@@ -5,7 +5,7 @@
 <details>
 <summary>About Author</summary>
   
-- [ ] I am Pre-Final year student from LNMIIT Jaipur
+- [ ] I am Final year student from LNMIIT Jaipur
 - [ ] Looking for Job Opportunities :office:
 - [ ] Can be reached out at, :email: : pratulkumar1997@gmail.com
 
