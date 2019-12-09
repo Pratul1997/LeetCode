@@ -170,6 +170,8 @@
 ||||||||
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/896.%20Monotonic%20Array) | **O(n)** | **O(1)** | Easy | ```Array``` | 
 ||||||||
+| 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | [Solution](https://github.com/Pratul1997/LeetCode/blob/master/Source%20Code/905.%20Sort%20Array%20By%20Parity/README.md) | **O(n)** | **O(n)** | Easy | ```Array``` |
+||||||||
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/929.%20Unique%20Email%20Addresses) | **O(n)** | **O(n)** | Easy | ```String``` |
 ||||||||
 
