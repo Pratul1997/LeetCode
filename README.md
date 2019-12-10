@@ -168,6 +168,10 @@
 ||||||||
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/832.%20Flipping%20an%20Image) | **O(n^2)** | **O(1)** | Easy | ```Array``` |
 ||||||||
+| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/852.%20Peak%20Index%20in%20a%20Mountain%20Array) | **O(n)** | **O(1)** | Easy | ```Binary Search``` |
+||||||||
+| 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/856.%20Score%20of%20Parentheses) | **O(n)** | **O(n)** | Medium | ```String, Stack``` |
+||||||||
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/896.%20Monotonic%20Array) | **O(n)** | **O(1)** | Easy | ```Array``` | 
 ||||||||
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | [Solution](https://github.com/Pratul1997/LeetCode/blob/master/Source%20Code/905.%20Sort%20Array%20By%20Parity/README.md) | **O(n)** | **O(n)** | Easy | ```Array``` |
