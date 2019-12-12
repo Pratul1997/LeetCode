@@ -172,6 +172,12 @@
 ||||||||
 | 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/856.%20Score%20of%20Parentheses) | **O(n)** | **O(n)** | Medium | ```String, Stack``` |
 ||||||||
+| 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/860.%20Lemonade%20Change) | **O(n)** | **O(1)** | Easy | ```Greedy``` |
+||||||||
+| 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/867.%20Transpose%20Matrix) | **O(n^2)** | **O(n^2)** | Easy | ```Array``` |
+||||||||
+| 868 | [Binary Gap](https://leetcode.com/problems/binary-gap) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/868.%20Binary%20Gap) | **O(n)** | **O(1)** | Easy | ```Math``` |
+||||||||
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/896.%20Monotonic%20Array) | **O(n)** | **O(1)** | Easy | ```Array``` | 
 ||||||||
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | [Solution](https://github.com/Pratul1997/LeetCode/blob/master/Source%20Code/905.%20Sort%20Array%20By%20Parity/README.md) | **O(n)** | **O(n)** | Easy | ```Array``` |
