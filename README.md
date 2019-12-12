@@ -158,15 +158,25 @@
 ||||||||
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/485.%20Max%20Consecutive%20Ones) | **O(n)** | **O(1)** | Easy | ```Array``` |
 ||||||||
+| 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/500.%20Keyboard%20Row) | **O(n)** | **O(n)** | Easy | ```Hash Table``` |
+||||||||
+| 504 | [Base 7](https://leetcode.com/problems/base-7) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/504.%20Base%207) | **O(n)** | **O(n)** | Easy | ```Math``` |
+||||||||
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/507.%20Perfect%20Number) | **O(logn)** | **O(1)** | Easy | ```Math``` |
 ||||||||
-| 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/535.%20Encode%20and%20Decode%20TinyURL) | **O(1)** | **O(1)** | Medium | ```Hash Table, Math``` |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/509.%20Fibonacci%20Number) | **O(n)** | **O(1)** | Easy | ```Array``` |
+||||||||
+| 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/535.%20Encode%20and%20Decode%20TinyURL) | **O(1)** | **O(1)** | Medium | ```String, Math``` |
+||||||||
+| 537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/537.%20Complex%20Number%20Multiplication) | **O(1)** | **O(1)** | Medium | ```Hash Table, Math``` |
 ||||||||
 | 557 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/557.%20Reverse%20Words%20in%20a%20String%20III) | **O(n)** | **O(1)** | Easy | ```String``` |
 ||||||||
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/561.%20Array%20Partition%20I) | **O(n)** | **O(1)** | Easy | ```Array```|
 ||||||||
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/566.%20Reshape%20the%20Matrix) | **O(n)** | **O(n^2)** | Easy | ```Array``` |
+||||||||
+| 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/581.%20Shortest%20Unsorted%20Continuous%20Subarray) | **O(n)** | **O(1)** | Easy | ```Array``` |
 ||||||||
 | 599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists) | **O(n)** | **O(n)** | Easy | ```Hash Table``` | 
 ||||||||
