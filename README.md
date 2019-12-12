@@ -184,7 +184,7 @@
 ||||||||
 | 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/888.%20Fair%20Candy%20Swap) | **O(n)** | **O(n)** | Easy | ```Array``` |
 ||||||||
-| 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/890.%20Find%20and%20Replace%20Pattern) | **O(n^2)** | **O(n)** | Easy | ```String``` |
+| 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/890.%20Find%20and%20Replace%20Pattern) | **O(n^2)** | **O(n)** | Medium | ```String``` |
 ||||||||
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/896.%20Monotonic%20Array) | **O(n)** | **O(1)** | Easy | ```Array``` | 
 ||||||||
