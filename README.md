@@ -126,9 +126,17 @@
 ||||||||
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/345.%20Reverse%20Vowels%20of%20a%20String) | **O(n)** | **O(1)** | Easy | ```Two Pointers, String``` |
 ||||||||
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/349.%20Intersection%20of%20Two%20Arrays) | **O(1)** | **O(1)** | Easy | ```Hash Table, Two Pointers, Binary Search, Sort``` |
+||||||||
+| 350 | [ Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/350.%20Intersection%20of%20Two%20Arrays%20II) | **O(nlogn)** | **O(n)** | Easy | ```Hash Table, Two Pointers, Binary Search, Sort``` |
+||||||||
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/367.%20Valid%20Perfect%20Square) | **O(n)** | **O(1)** | Easy | ```Math, Binary Search``` |
 ||||||||
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/383.%20Ransom%20Note) | **O(n)** | **O(n)** | Easy | ```String``` |
+||||||||
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/389.%20Find%20the%20Difference) | **O(n)** | **O(1)** | Easy | ```Hash Table, Bit Manipulation``` |
+||||||||
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/392.%20Is%20Subsequence) | **O(n^2)** | **O(1)** | Easy | ```Binary Search, Dynamic Programming, Greedy``` |
 ||||||||
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/441.%20Arranging%20Coins) | **O(1)** | **O(1)** | Easy | ```Math, Binary Search``` |
 ||||||||
