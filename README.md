@@ -140,8 +140,6 @@
 ||||||||
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/412.%20Fizz%20Buzz) | **O(n)** | **O(n)** | Easy | ```Array``` |
 ||||||||
-| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/412.%20Fizz%20Buzz) | **O(n)** | **O(n)** | Easy | ```Array``` |
-||||||||
 | 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/413.%20Arithmetic%20Slices) | **O(n)** | **O(n)** | Medium | ```Math, Dynamic Programming``` |
 ||||||||
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/415.%20Add%20Strings) | **O(n)** | **O(n)** | Easy | ```String``` |
