@@ -178,6 +178,14 @@
 ||||||||
 | 868 | [Binary Gap](https://leetcode.com/problems/binary-gap) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/868.%20Binary%20Gap) | **O(n)** | **O(1)** | Easy | ```Math``` |
 ||||||||
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/876.%20Middle%20of%20the%20Linked%20List) | **O(n)** | **O(1)** | Easy | ```Linked List``` |
+||||||||
+| 884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/884.%20Uncommon%20Words%20from%20Two%20Sentences) | **O(n)** | **O(n)** | Easy | ```Hash Table``` |
+||||||||
+| 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/888.%20Fair%20Candy%20Swap) | **O(n)** | **O(n)** | Easy | ```Array``` |
+||||||||
+| 890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/890.%20Find%20and%20Replace%20Pattern) | **O(n^2)** | **O(n)** | Easy | ```String``` |
+||||||||
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/896.%20Monotonic%20Array) | **O(n)** | **O(1)** | Easy | ```Array``` | 
 ||||||||
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity) | [Solution](https://github.com/Pratul1997/LeetCode/blob/master/Source%20Code/905.%20Sort%20Array%20By%20Parity/README.md) | **O(n)** | **O(n)** | Easy | ```Array``` |
