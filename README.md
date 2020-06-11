@@ -42,6 +42,8 @@
 ||||||||
 | 21 | [**Merge Two Sorted Lists**](https://leetcode.com/problems/merge-two-sorted-lists) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/21.%20Merge%20Two%20Sorted%20Lists) | **O(n)** | **O(n)** | Easy | ```Linked List``` |
 ||||||||
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/22.%20Generate%20Parentheses) | **O(n^2)** | **O(n!)** | Medium | ```String, Backtracking``` |
+||||||||
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/24.%20Swap%20Nodes%20in%20Pairs) | **O(n)** | **O(1)** | Medium | ```Linked List``` |
 ||||||||
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/25.%20Reverse%20Nodes%20in%20k-Group) | **O(n)** | **O(1)** | Hard | ```Linked List``` |
