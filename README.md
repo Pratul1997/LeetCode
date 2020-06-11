@@ -42,29 +42,29 @@
 ||||||||
 | 21 | [**Merge Two Sorted Lists**](https://leetcode.com/problems/merge-two-sorted-lists) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/21.%20Merge%20Two%20Sorted%20Lists) | **O(n)** | **O(n)** | Easy | ```Linked List``` |
 ||||||||
-| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/22.%20Generate%20Parentheses) | **O(n^2)** | **O(n!)** | Medium | ```String, Backtracking``` |
+| 22 | [**Generate Parentheses**](https://leetcode.com/problems/generate-parentheses) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/22.%20Generate%20Parentheses) | **O(n^2)** | **O(n!)** | Medium | ```String, Backtracking``` |
 ||||||||
-| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/24.%20Swap%20Nodes%20in%20Pairs) | **O(n)** | **O(1)** | Medium | ```Linked List``` |
+| 24 | [**Swap Nodes in Pairs**](https://leetcode.com/problems/swap-nodes-in-pairs) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/24.%20Swap%20Nodes%20in%20Pairs) | **O(n)** | **O(1)** | Medium | ```Linked List``` |
 ||||||||
-| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/25.%20Reverse%20Nodes%20in%20k-Group) | **O(n)** | **O(1)** | Hard | ```Linked List``` |
+| 25 | [**Reverse Nodes in k-Group**](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/25.%20Reverse%20Nodes%20in%20k-Group) | **O(n)** | **O(1)** | Hard | ```Linked List``` |
 ||||||||
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/26.%20Remove%20Duplicates%20from%20Sorted%20Array) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
+| 26 | [**Remove Duplicates from Sorted Array**](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/26.%20Remove%20Duplicates%20from%20Sorted%20Array) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
 ||||||||
-| **27** | [Remove Element](https://leetcode.com/problems/remove-element) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/27.%20Remove%20Element) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
+| 27 | [**Remove Element**](https://leetcode.com/problems/remove-element) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/27.%20Remove%20Element) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
 ||||||||
-| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/28.%20Implement%20strStr()) | **O(n)** | **O(1)** | Easy | ```Two Pointers, String``` |
+| 28 | [**Implement strStr()**](https://leetcode.com/problems/implement-strstr) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/28.%20Implement%20strStr()) | **O(n)** | **O(1)** | Easy | ```Two Pointers, String``` |
 ||||||||
-| **35** | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/35.%20Search%20Insert%20Position) | **O(n)** | **O(1)** | Easy | ```Array, Binary Search``` |
+| 35 | [**Search Insert Position**](https://leetcode.com/problems/search-insert-position) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/35.%20Search%20Insert%20Position) | **O(n)** | **O(1)** | Easy | ```Array, Binary Search``` |
 ||||||||
-| **43** | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/43.%20Multiply%20Strings) | **O(1)** | **O(1)** | Medium | ```Math, String``` |
+| 43 | [**Multiply Strings**](https://leetcode.com/problems/multiply-strings) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/43.%20Multiply%20Strings) | **O(1)** | **O(1)** | Medium | ```Math, String``` |
 ||||||||
-| 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/50.%20Pow(x-n)) | **O(logn)** | **O(1)** | Medium | ```Math, Binary Search```|
+| 50 | [**Pow(x,n)**](https://leetcode.com/problems/powx-n) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/50.%20Pow(x-n)) | **O(logn)** | **O(1)** | Medium | ```Math, Binary Search```|
 ||||||||
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/53.%20Maximum%20Subarray) | **O(n)** | **O(1)** | Easy | ```Array, Divide and Conquer, Dynamic Programming```|
+| 53 | [**Maximum Subarray**](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/53.%20Maximum%20Subarray) | **O(n)** | **O(1)** | Easy | ```Array, Divide and Conquer, Dynamic Programming```|
 ||||||||
-| 61 | [Plus One](https://leetcode.com/problems/plus-one) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/66.%20Plus%20One) | **O(n)** | **O(1)** | Easy | ```Array, Math```| 
+| 61 | [**Plus One**](https://leetcode.com/problems/plus-one) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/66.%20Plus%20One) | **O(n)** | **O(1)** | Easy | ```Array, Math```| 
 ||||||||
-| 65 | [Valid Number](https://leetcode.com/problems/valid-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/65.%20Valid%20Number) | **O(1)** | **O(1)** | Hard | ```Math, String``` |
+| 65 | [**Valid Number**](https://leetcode.com/problems/valid-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/65.%20Valid%20Number) | **O(1)** | **O(1)** | Hard | ```Math, String``` |
 ||||||||
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/73.%20Set%20Matrix%20Zeroes) | **O(n^2)** | **O(1)** | Medium | ```Array``` |
 ||||||||
