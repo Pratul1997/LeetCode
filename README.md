@@ -52,6 +52,8 @@
 ||||||||
 | **27** | [Remove Element](https://leetcode.com/problems/remove-element) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/27.%20Remove%20Element) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers``` |
 ||||||||
+| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/28.%20Implement%20strStr()) | **O(n)** | **O(1)** | Easy | ```Two Pointers, String``` |
+||||||||
 | **35** | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/35.%20Search%20Insert%20Position) | **O(n)** | **O(1)** | Easy | ```Array, Binary Search``` |
 ||||||||
 | **43** | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/43.%20Multiply%20Strings) | **O(1)** | **O(1)** | Medium | ```Math, String``` |
