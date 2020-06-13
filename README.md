@@ -68,29 +68,29 @@
 ||||||||
 | 65 | [**Valid Number**](https://leetcode.com/problems/valid-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/65.%20Valid%20Number) | **O(1)** | **O(1)** | Hard | ```Math, String``` |
 ||||||||
-| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/73.%20Set%20Matrix%20Zeroes) | **O(n^2)** | **O(1)** | Medium | ```Array``` |
+| 73 | [**Set Matrix Zeroes**](https://leetcode.com/problems/set-matrix-zeroes) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/73.%20Set%20Matrix%20Zeroes) | **O(n^2)** | **O(1)** | Medium | ```Array``` |
 ||||||||
-| 78 | [Subsets](https://leetcode.com/problems/subsets) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/78.%20Subsets) | **O(n^2)** | **O(n^2)** | Medium | ```Array, Backtracking, Bit Manipulation``` |
+| 78 | [**Subsets**](https://leetcode.com/problems/subsets) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/78.%20Subsets) | **O(n^2)** | **O(n^2)** | Medium | ```Array, Backtracking, Bit Manipulation``` |
 ||||||||
-| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/83.%20Remove%20Duplicates%20from%20Sorted%20List) | **O(n)** | **O(1)** | Easy | ```Linked List``` |
+| 83 | [**Remove Duplicates from Sorted List**](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/83.%20Remove%20Duplicates%20from%20Sorted%20List) | **O(n)** | **O(1)** | Easy | ```Linked List``` |
 ||||||||
-| 89 | [Gray Code](https://leetcode.com/problems/gray-code) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/89.%20Gray%20Code) | **O(n^2)** | **O(n)** | Medium | ```Backtracking``` |
+| 89 | [**Gray Code**](https://leetcode.com/problems/gray-code) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/89.%20Gray%20Code) | **O(n^2)** | **O(n)** | Medium | ```Backtracking``` |
 ||||||||
-| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/118.%20Pascal's%20Triangle) | **O(n^2)** | **O(1)** | Easy | ```Array``` |
+| 118 | [**Pascal's Triangle**](https://leetcode.com/problems/pascals-triangle) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/118.%20Pascal's%20Triangle) | **O(n^2)** | **O(1)** | Easy | ```Array``` |
 ||||||||
-| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/119.%20Pascal's%20Triangle%20II) | **O(n^2)** | **O(k)** | Easy | ```Array``` |
+| 119 | [**Pascal's Triangle II**](https://leetcode.com/problems/pascals-triangle-ii) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/119.%20Pascal's%20Triangle%20II) | **O(n^2)** | **O(k)** | Easy | ```Array``` |
 ||||||||
-| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) | **O(n)** | **O(1)** | Easy | ```Array, Dynamic Programming``` |
+| 121 | [**Best Time to Buy and Sell Stock**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) | **O(n)** | **O(1)** | Easy | ```Array, Dynamic Programming``` |
 ||||||||
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/125.%20Valid%20Palindrome) |**O(1)** | **O(1)** | Easy | ```Two Pointers, String``` |
+| 125 | [**Valid Palindrome**](https://leetcode.com/problems/valid-palindrome) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/125.%20Valid%20Palindrome) |**O(1)** | **O(1)** | Easy | ```Two Pointers, String``` |
 ||||||||
-| 136 | [Single Number](https://leetcode.com/problems/single-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/136.%20Single%20Number) | **O(n)** | **O(1)** | Easy | ```Hash Table, Bit Manipulation``` |
+| 136 | [**Single Number**](https://leetcode.com/problems/single-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/136.%20Single%20Number) | **O(n)** | **O(1)** | Easy | ```Hash Table, Bit Manipulation``` |
 ||||||||
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/141.%20Linked%20List%20Cycle) | **O(n)** | **O(1)** | Easy | ```Linked List, Two Pointers``` |
+| 141 | [**Linked List Cycle**](https://leetcode.com/problems/linked-list-cycle) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/141.%20Linked%20List%20Cycle) | **O(n)** | **O(1)** | Easy | ```Linked List, Two Pointers``` |
 ||||||||
-| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/142.%20Linked%20List%20Cycle%20II) | **O(n)** | **O(n)** | Medium | ```Linked List, Two Pointers``` |
+| 142 | [**Linked List Cycle II**](https://leetcode.com/problems/linked-list-cycle-ii) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/142.%20Linked%20List%20Cycle%20II) | **O(n)** | **O(n)** | Medium | ```Linked List, Two Pointers``` |
 ||||||||
-| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/160.%20Intersection%20of%20Two%20Linked%20Lists) | **O(n)** | **O(n)** | Easy | ```Linked List``` |
+| 160 | [**Intersection of Two Linked Lists**](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/160.%20Intersection%20of%20Two%20Linked%20Lists) | **O(n)** | **O(n)** | Easy | ```Linked List``` |
 ||||||||
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted) | **O(n)** | **O(1)** | Easy | ```Array, Two Pointers, Binary Search``` |
 ||||||||
