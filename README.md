@@ -56,6 +56,8 @@
 ||||||||
 | 35 | [**Search Insert Position**](https://leetcode.com/problems/search-insert-position) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/35.%20Search%20Insert%20Position) | **O(n)** | **O(1)** | Easy | ```Array, Binary Search``` |
 ||||||||
+| 38 | [**Count and Say**](https://leetcode.com/problems/count-and-say) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/38.%20Count%20and%20Say) | **O(n^2)** | **O(1)** | Easy |  ```String``` |
+||||||||
 | 43 | [**Multiply Strings**](https://leetcode.com/problems/multiply-strings) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/43.%20Multiply%20Strings) | **O(1)** | **O(1)** | Medium | ```Math, String``` |
 ||||||||
 | 50 | [**Pow(x,n)**](https://leetcode.com/problems/powx-n) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/50.%20Pow(x-n)) | **O(logn)** | **O(1)** | Medium | ```Math, Binary Search```|
