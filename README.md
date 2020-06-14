@@ -68,6 +68,8 @@
 ||||||||
 | 65 | [**Valid Number**](https://leetcode.com/problems/valid-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/65.%20Valid%20Number) | **O(1)** | **O(1)** | Hard | ```Math, String``` |
 ||||||||
+| 69 | [**Sqrt(x)**](https://leetcode.com/problems/sqrtx) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/69.%20Sqrt(x)) | **O(logn)** | **O(1)** | Easy | ```Math, Binary Search``` |
+||||||||
 | 73 | [**Set Matrix Zeroes**](https://leetcode.com/problems/set-matrix-zeroes) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/73.%20Set%20Matrix%20Zeroes) | **O(n^2)** | **O(1)** | Medium | ```Array``` |
 ||||||||
 | 78 | [**Subsets**](https://leetcode.com/problems/subsets) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/78.%20Subsets) | **O(n^2)** | **O(n^2)** | Medium | ```Array, Backtracking, Bit Manipulation``` |
