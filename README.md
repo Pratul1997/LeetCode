@@ -76,6 +76,8 @@
 ||||||||
 | 78 | [**Subsets**](https://leetcode.com/problems/subsets) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/78.%20Subsets) | **O(n^2)** | **O(n^2)** | Medium | ```Array, Backtracking, Bit Manipulation``` |
 ||||||||
+| 80 | [**Remove Duplicates from Sorted Array II**](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II) | **O(n)** | **O(1)** | Medium | ```Array, Two Pointers``` |
+||||||||
 | 83 | [**Remove Duplicates from Sorted List**](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/83.%20Remove%20Duplicates%20from%20Sorted%20List) | **O(n)** | **O(1)** | Easy | ```Linked List``` |
 ||||||||
 | 89 | [**Gray Code**](https://leetcode.com/problems/gray-code) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/89.%20Gray%20Code) | **O(n^2)** | **O(n)** | Medium | ```Backtracking``` |
