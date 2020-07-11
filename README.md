@@ -88,6 +88,8 @@
 ||||||||
 | 121 | [**Best Time to Buy and Sell Stock**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) | **O(n)** | **O(1)** | Easy | ```Array, Dynamic Programming``` |
 ||||||||
+| 122 | [**Best Time to Buy and Sell Stock II**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) | **O(n)** | **O(1)** | Easy | ```Array, Greedy``` |
+||||||||
 | 125 | [**Valid Palindrome**](https://leetcode.com/problems/valid-palindrome) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/125.%20Valid%20Palindrome) |**O(1)** | **O(1)** | Easy | ```Two Pointers, String``` |
 ||||||||
 | 136 | [**Single Number**](https://leetcode.com/problems/single-number) | [Solution](https://github.com/Pratul1997/LeetCode/tree/master/Source%20Code/136.%20Single%20Number) | **O(n)** | **O(1)** | Easy | ```Hash Table, Bit Manipulation``` |
